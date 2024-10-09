@@ -1,2 +1,2 @@
 # DSA
-Some Data structures and Algorithms in Python, C , C++ and JavaaScript
+Some Data structures and Algorithms in Python, C , C++ and JavaScript
